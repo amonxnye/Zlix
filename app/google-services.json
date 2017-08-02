@@ -1,0 +1,379 @@
+{
+  "project_info": {
+    "project_number": "984347885326",
+    "firebase_url": "https://rainbow-512e0.firebaseio.com",
+    "project_id": "rainbow-512e0",
+    "storage_bucket": "rainbow-512e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:aba6982b98fa552b",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.payrainbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-974kenr73s3t77tks1g30gv7v5tbh62i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.payrainbow",
+            "certificate_hash": "f206fa49f40472507aa86c5f897dc92cbe3202a7"
+          }
+        },
+        {
+          "client_id": "984347885326-n8p9djmu46g4q9bfqqi98hmmhv1ret4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.payrainbow",
+            "certificate_hash": "6c0a80d1de1371c2662702f374bd832c86f533da"
+          }
+        },
+        {
+          "client_id": "984347885326-novt1gad9cnfvdf00cspvj5rqf5dcbli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.payrainbow",
+            "certificate_hash": "feec9bb5b8c4a54a272f55c706262ffca5b359d0"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:5d17aca60b19cee4",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.peerpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-q5oe3p48e3me3gbqi2ckaastbr5struo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.peerpay",
+            "certificate_hash": "251ff224414e24a2f8d7ba20e94e2e6032120518"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:782a1d81cd9c52e5",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.rainbowauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-2d36ig7aroo5rcsgna16k2i8f9af53n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.rainbowauth",
+            "certificate_hash": "251ff224414e24a2f8d7ba20e94e2e6032120518"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:77a584f24da50c3b",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.authy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-ml0hosip8fcv0ifsolqdnlk85h52f6r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.authy",
+            "certificate_hash": "251ff224414e24a2f8d7ba20e94e2e6032120518"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:a4e106a57a65606a",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.trainingauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-sffmoq9cnj58tq0nurnk5a26vjevdnv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.trainingauth",
+            "certificate_hash": "535d71ab9fd7baf50831741a17a8e1a7419134f4"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:14bf0b3cc8a2e69b",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.myauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-9g2j5kqhner8ua0m8k9uibsdc3vflbfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.myauth",
+            "certificate_hash": "535d71ab9fd7baf50831741a17a8e1a7419134f4"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:b0fdf288056c6c32",
+        "android_client_info": {
+          "package_name": "com.payrainbow.engineers.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-hg5nbaa73g1eliq50lkb5k5bccmhgnmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.engineers.signin",
+            "certificate_hash": "535d71ab9fd7baf50831741a17a8e1a7419134f4"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984347885326:android:f6060271bdb1494d",
+        "android_client_info": {
+          "package_name": "com.payrainbow.zlix.engineers.zlix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984347885326-lom7bvrc5dtc9qbsm576ihjus8tvvqqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payrainbow.zlix.engineers.zlix",
+            "certificate_hash": "535d71ab9fd7baf50831741a17a8e1a7419134f4"
+          }
+        },
+        {
+          "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLWYi-plvGR53V814ABRhQuNHqP8EZGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984347885326-de3qltb9ocpu56nrk51kivo9v2saf446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
